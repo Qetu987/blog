@@ -1,0 +1,9 @@
+Django
+bs4
+requests
+pyaml
+django-grappelli
+Pillow
+markdown
+social-auth-app-django
+django-mathfilters
